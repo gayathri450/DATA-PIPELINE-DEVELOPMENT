@@ -1,0 +1,10 @@
+ProductID,Category,Price,UnitsSold,Discount
+101,Electronics,1200.0,5.0,10
+102,Clothing,45.0,20.0,5
+103,Books,15.0,50.0,0
+104,Electronics,999.0,8.0,15
+105,Clothing,60.0,30.0,10
+106,Books,10.0,100.0,0
+107,Electronics,1100.0,,5
+108,Clothing,,25.0,5
+109,Books,18.0,80.0,0
